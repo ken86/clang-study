@@ -3,11 +3,12 @@
 .idea/
 .project
 .settings/
-.springBeans
 
 *~
 *.rej
 *.iml
 *.ipr
 *.iws
+*.out
+*.so
 target/
